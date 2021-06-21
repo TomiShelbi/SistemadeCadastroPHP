@@ -1,0 +1,13 @@
+Fiz de forma simples por que não daria tempo de fazer tudo que foi 
+pedido no teste.
+Estava no médico hoje de manhã por isso a pressa.
+--------------------------------------------------------------------
+
+Colocar a pasta Cadastro na pasta abaixo
+C:\xampp\htdocs
+
+Copiar o Script MySQL no PHPAdmin para rodar 
+
+Entrar com depois de ter colocado a pasta no HTDOCS do Xampp
+
+localhost/Cadastro
